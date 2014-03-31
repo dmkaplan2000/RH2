@@ -1,0 +1,11 @@
+# Export all names
+exportPattern(".")
+exportPattern("[.]")
+
+# Import all packages listed as Imports or Depends
+import(
+  chron,
+  methods,
+  RJDBC
+)
+
