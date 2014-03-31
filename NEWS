@@ -1,3 +1,8 @@
+Version 0.2
+
+o David M. Kaplan becomes maintainer
+o New fetch method that should be considerably quicker for large datasets
+
 Version 0.1.2.12
 
 o bug fix for handling NULL values (David Kaplan)
