@@ -1,3 +1,7 @@
+Version 0.2.1
+
+o Removed print statement from fetch method
+
 Version 0.2
 
 o David M. Kaplan becomes maintainer

@@ -142,7 +142,7 @@ setMethod("fetch", signature(res="H2Result", n="numeric"), def=function(res, n, 
   if (n==0) return(as.data.frame(l,stringsAsFactors=FALSE))
   
   for (j in 1:n) {
-    if (j %% 1000==0) print(paste("Retrieving row",j))
+#     if (j %% 1000==0) print(paste("Retrieving row",j))
     if (!(.jcall(res@jr, "Z", "next")))
       stop("Row not found") # Should never happen
     

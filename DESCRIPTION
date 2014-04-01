@@ -1,5 +1,5 @@
 Package: RH2
-Version: 0.2
+Version: 0.2.1
 Date: 2014-03-30
 Title: DBI/RJDBC interface to h2 Database
 Author: G. Grothendieck. Author of h2 is Thomas Mueller.
