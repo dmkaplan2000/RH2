@@ -15,7 +15,7 @@ The latest development version of RH2 can be installed directly from
 [devtools](http://cran.r-project.org/web/packages/devtools/index.html)
 R package. First that package needs to be installed:
 
-  	   install.packages("devtools")
+     install.packages("devtools")
 
 Once this is done, one can install the development version with:
 
