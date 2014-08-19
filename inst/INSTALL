@@ -7,4 +7,4 @@ package then do something like this (or place the option statement in your
 .Rprofile file).
 
 	library(RH2)
-	option(RH2.jars = "C:/tmp2/h2-1.3.154.jar")
+	options(RH2.jars = "C:/tmp2/h2-1.3.154.jar")
