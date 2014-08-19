@@ -1,9 +1,9 @@
 Package: RH2
-Version: 0.2.1
-Date: 2014-03-30
+Version: 0.2.2
+Date: 2014-08-19
 Title: DBI/RJDBC interface to h2 Database
 Author: G. Grothendieck. Author of h2 is Thomas Mueller.
-Maintainer: "David M. Kaplan" <david.kaplan@ird.fr>
+Maintainer: "David M. Kaplan" <dmkaplan2000@gmail.com>
 Description: DBI/RJDBC interface to h2 database. h2 version 1.3.175 is included.
 Depends: chron, methods, RJDBC
 SystemRequirements: java runtime

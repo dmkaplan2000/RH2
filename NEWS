@@ -1,3 +1,7 @@
+Version 0.2.2
+
+o Changed maintainer email address to gmail.
+
 Version 0.2.1
 
 o Removed print statement from fetch method
