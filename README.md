@@ -6,7 +6,7 @@ DBI/RJDBC interface to h2 database. h2 version 1.3.175 is included.
 
 ## Maintainer
 
-[David M. Kaplan](mailto:david.kaplan@ird.fr)
+[David M. Kaplan](mailto:dmkaplan2000@gmail.com)
 
 ## Installation of latest version via github
 
