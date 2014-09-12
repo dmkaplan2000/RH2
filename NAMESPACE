@@ -9,3 +9,4 @@ import(
   RJDBC
 )
 
+importFrom(rJava,.jpackage,is.jnull,.jfindClass,.jnew,.jcheck,.jnull,.jcall)
