@@ -1,3 +1,8 @@
+Version 0.2.4
+
+o Fixing some documentation issues to meet new CRAN standards.
+o Correcting signature definition for dbWriteTable method.
+
 Version 0.2.3
 
 o Added importFrom for rJava commands used and added java/README to explain where to find H2 sources.

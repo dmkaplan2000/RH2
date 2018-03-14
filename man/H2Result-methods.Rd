@@ -14,7 +14,7 @@
   }
 \section{Methods}{
   \describe{
-    \item{fetch}{\code{signature(res = "H2Result", ...)}}
+    \item{fetch}{\code{signature(res = "H2Result", n="numeric")}}
 }}
 \keyword{methods}
 

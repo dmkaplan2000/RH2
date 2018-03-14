@@ -39,7 +39,7 @@ setMethod("dbConnect", "H2Driver", def=function(drv, url = "jdbc:h2:mem:",
   new("H2Connection", jc=jc, identifier.quote=drv@identifier.quote)},
   valueClass="H2Connection")
 
-setMethod("dbWriteTable", "H2Connection", def=function(conn, name, value, overwrite=TRUE, ...) {
+setMethod("dbWriteTable", signature(conn="H2Connection",name="character",value="data.frame"), def=function(conn, name, value, overwrite=TRUE, ...) {
   dots <- list(...)
   temporary <- "temporary" %in% names(dots) && dots$temporary
   ac <- .jcall(conn@jc, "Z", "getAutoCommit")
