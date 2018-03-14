@@ -12,7 +12,7 @@ DBI/RJDBC interface to h2 database. h2 version 1.3.175 is included.
 
 The latest development version of RH2 can be installed directly from
 [github](https://github.com/) using the
-[devtools](http://cran.r-project.org/web/packages/devtools/index.html)
+[devtools](https://cran.r-project.org/package=devtools)
 R package. First that package needs to be installed:
 
      install.packages("devtools")
