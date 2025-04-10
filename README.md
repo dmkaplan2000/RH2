@@ -2,7 +2,7 @@
 
 ## Description
 
-DBI/RJDBC interface to h2 database. h2 version 1.3.175 is included.
+DBI/RJDBC interface to h2 database. h2 version 2.3.232 is included.
 
 ## Maintainer
 

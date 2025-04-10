@@ -7,7 +7,7 @@
   H2 to connect to a database.}
 \section{Generators}{
   Objects can be created by call to \code{\link[DBI]{dbConnect}} of a
-  \code{\link{JDBC}} driver.
+  \code{\link[RJDBC]{JDBC}} driver.
 }
 \section{Slots}{
 	 \describe{
@@ -28,7 +28,7 @@
 }
 %\author{ ~~who you are~~ }
 \seealso{
-  \code{\link{JDBC}}, \code{"\linkS4class{JDBCDriver}"}
+  \code{\link[RJDBC]{JDBC}}, \code{"\link[RJDBC]{JDBCDriver-class}"}
 }
 %\examples{
 %}

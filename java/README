@@ -2,6 +2,10 @@ Source for H2 can be downloaded from:
 
 http://h2database.com/html/download.html
 
-Sources for the 1.3.175 version of H2 included with this package are available at:
+Sources for the 1.3.175 version of H2 included in version <=0.2.4 of this package are available at:
 
 https://code.google.com/p/h2database/downloads/detail?name=h2-2014-01-18.zip&can=2&q=
+
+Sources for the 2.3.232 version of H2 included in version >=0.2.5 of this package are available at:
+
+https://github.com/h2database/h2database/releases/download/version-2.3.232/h2-2024-08-11.zip

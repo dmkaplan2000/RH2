@@ -1,3 +1,8 @@
+Version 0.2.5
+
+o Updated to version 2.3.232 of h2 jar.
+o Corrected links in documentation as per CRAN instructions.
+
 Version 0.2.4
 
 o Fixing some documentation issues to meet new CRAN standards.
