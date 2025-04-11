@@ -1,6 +1,16 @@
-# Export all names
-exportPattern(".")
-exportPattern("[.]")
+# Export just names we need
+export(H2)
+exportClasses(H2Connection)
+exportClasses(H2Result)
+exportMethods(dbConnect)
+exportMethods(dbDataType)
+exportMethods(dbSendQuery)
+exportMethods(dbWriteTable)
+exportMethods(fetch)
+
+# # Export all names
+# exportPattern(".")
+# exportPattern("[.]")
 
 # Import all packages listed as Imports or Depends
 import(

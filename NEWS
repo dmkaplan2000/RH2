@@ -2,6 +2,7 @@ Version 0.2.5
 
 o Updated to version 2.3.232 of h2 jar.
 o Corrected links in documentation as per CRAN instructions.
+o Added Authors@R field to DESCRIPTION.
 
 Version 0.2.4
 

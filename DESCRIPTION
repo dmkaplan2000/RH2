@@ -1,13 +1,19 @@
 Package: RH2
 Version: 0.2.5
-Date: 2025-04-10
+Date: 2025-04-11
 Title: DBI/RJDBC Interface to H2 Database
-Author: G. Grothendieck. Author of h2 is Thomas Mueller.
-Maintainer: "David M. Kaplan" <dmkaplan2000@gmail.com>
+Authors@R: c(person(given = "G.",
+                    family = "Grothendieck",
+                    role = "aut"),
+             person(given = c("David", "M."),
+                    family = "Kaplan",
+                    role = "cre",
+                    email = "dmkaplan2000@gmail.com",
+                    comment = c(ORCID = "0000-0001-6087-359X")))
 Description: DBI/RJDBC interface to h2 database. h2 version 2.3.232 is included.
 Depends: chron, methods, RJDBC, rJava
 SystemRequirements: java runtime
 License: Mozilla Public License 1.1
-URL: https://github.com/dmkaplan2000/RH2.git
+URL: https://github.com/dmkaplan2000/RH2
 Packaged: 2025-04-10 16:17:00 UTC
 
